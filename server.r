@@ -1,6 +1,5 @@
 library(shiny)
 library(rCharts)
-library(xlsx)
 library(stringr)
 
 
