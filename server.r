@@ -2,7 +2,6 @@ library(shiny)
 library(rCharts)
 library(stringr)
 
-
 shinyServer(function(input, output) {
   ##Data source: Fifa official website http://www.fifa.com/worldcup/statistics/index.html
   #Loading of the working space for data preparing
